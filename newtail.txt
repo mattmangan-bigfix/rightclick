@@ -1,0 +1,2 @@
+#!/bin/bash
+find /var/opt/BESClient/__BESData/__Global/Logs/ -type f -mmin -10 -exec tail -f {} +
