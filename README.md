@@ -1,6 +1,8 @@
 # rightclick
 BigFix Right Click Options - Linux (RCOL)
 
+After seeing all of the wonderful right click options for Windows endpoints, I figured it would be nice to have some that focus on Linux. For now the three that are in here (restart client, open putty session, tail latest log) are just the start. I need to create a registry entry for the top command. This will be added shortly.
+
 Prerequisites
 ---------------
 Prior to using the RCOL, you will need to create a new property.
